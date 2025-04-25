@@ -2,4 +2,5 @@ writing from forked and cloned repo
 AUB
 AIML
 CSE
-MGT
+MGT??this is a bug, clean code below
+Management
